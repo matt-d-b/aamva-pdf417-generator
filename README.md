@@ -1,5 +1,5 @@
 AAMVA barcode generator for drivers license
-barcode maker pro v3.0 
+barcode maker pro  
 ![](https://1.bp.blogspot.com/-I_Xwz0Q9idc/YLqH-4yDqsI/AAAAAAAAAiU/oreMXFctBQI5CWd2oIjjWKPJBqCRwPc0wCLcBGAsYHQ/s946/Untitled-2.jpg)
 
 AAMVA pdf417 barcode generator for US drivers license
