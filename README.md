@@ -21,6 +21,6 @@ https://t.me/barcodemakerpro
 
 https://barcodemakerpro.com/
 
-[https://pdf417maker.blogspot.com/](https://pdf417maker.blogspot.com/)
+ 
 
 #aamva #barcode generator #pdf417
