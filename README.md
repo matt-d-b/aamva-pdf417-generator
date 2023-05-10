@@ -1,6 +1,6 @@
 AAMVA barcode generator for drivers license
 
-DL barcode maker pro v23.0
+DL barcode maker pro v23.2
 
 ![](https://barcodemakerpro.com/wp-content/uploads/2022/10/barcodemakerpro-768x569.jpg)
 
